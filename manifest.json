@@ -1,16 +1,16 @@
 {
   "name": "Hut8 Platform - Benson",
   "short_name": "Hut8",
-  "description": "Web Developer Kampala - I build business websites",
+  "description": "Web Developer Kampala",
   "start_url": "/Benson-/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#1e40af",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "WA_1788545697168.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }
